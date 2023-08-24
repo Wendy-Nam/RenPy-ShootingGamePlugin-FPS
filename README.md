@@ -22,7 +22,7 @@ In this first-person shooter game, players take on the role of a hunter. The gam
 
 ## ✨ How to Use
 
-1. Integration: To integrate the shooting game into your Ren'Py project, follow these steps:
+1. <b>Integration</b>: To integrate the shooting game into your Ren'Py project, follow these steps:
 
    1. Copy the entire `hunt` directory into your project's root directory (`game/`).
 
@@ -41,12 +41,12 @@ In this first-person shooter game, players take on the role of a hunter. The gam
 
    Make sure to adjust the `GameConfig` parameters as needed.
 
-2. Customization
+2. <b>Customization</b>
 
    - The game's behavior can be customized using the `GameConfig` class in the provided code.
    - You can adjust settings such as target image names, paths, numbers, time limits, life count, and more.
 
-3. Replacing Default Images
+3. <b>Replacing Default Images</b>
 
    - The plugin uses default images for elements like bullets, crosshairs, weapons, and hearts.
    - To replace these images:
@@ -85,14 +85,14 @@ label start:
 
 To ensure proper functionality, adhere to the following:
 
-- Each target image's name should be followed by sequential numbers, starting from 0.
-- Place the directories containing target images under the images folder.
+- Each <u>target image's name should be followed by sequential numbers</u>, starting from 0.
+- Place the directories containing target images under the `images` folder.
 
 Enjoy creating an engaging shooting mini-game for your Ren'Py visual novel! If you have questions or need assistance, feel free to reach out.
 
 ## License
 
-This Shooting Game Plugin for Ren'Py is provided under the CC0 1.0 Universal (CC0 1.0) Public Domain Dedication license. You can find a copy of the license in the [LICENSE](LICENSE) file.
+This Shooting Game Plugin for Ren'Py is provided under the `CC0 1.0 Universal` (CC0 1.0) Public Domain Dedication license. You can find a copy of the license in the [LICENSE](LICENSE) file.
 
 This means you are free to use, modify, and distribute the plugin for any purpose, even commercially, without requiring attribution.
 
