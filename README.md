@@ -85,7 +85,7 @@ label start:
 
 To ensure proper functionality, adhere to the following:
 
-- Each <u>target image's name should be followed by sequential numbers</u>, starting from 0.
+- Each `target image's name` should be followed by <b>sequential numbers</b>, starting from 0.
 - Place the directories containing target images under the `images` folder.
 
 Enjoy creating an engaging shooting mini-game for your Ren'Py visual novel! If you have questions or need assistance, feel free to reach out.
