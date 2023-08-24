@@ -65,7 +65,7 @@ Suppose you want to create a shooting game with different parameters:
 - Life count: 3
 - Rounds: 5
 - Maximum bullets: 25
-- Custom target image folder: `images/custom*targets/`
+- Custom target image folder: `images/custom_targets/`
 - Custom target image base name: `custom_target_`
 
 Here's how you can achieve this:
