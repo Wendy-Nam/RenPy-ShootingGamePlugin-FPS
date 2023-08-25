@@ -6,7 +6,8 @@ This plugin enables you to seamlessly integrate an immersive first-person shooti
 
 This readme provides a detailed guide on how to use the plugin, along with explanations and examples.
 
-![image](https://img.itch.zone/aW1hZ2UvMjIwOTg2MC8xMzA2ODc4OS5wbmc=/original/pDDgi6.png)
+![ezgif com-crop](https://github.com/Wendy-Nam/Renpy-ShootingGamePlugin-FPS/assets/142412339/827fb6d6-214a-4f71-89a5-7573a38b8927)
+
 
 ## 🔫 Game Rules
 
