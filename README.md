@@ -75,7 +75,7 @@ Here's how you can achieve this:
 label start:
     "Hunting Game"
     window hide
-    $ custom*game_config = GameConfig(target_img_path="images/custom_targets/", target_img_name='custom_target_', target_nb=6, time_limit=20, life_max=3, round_nb=5, bullet_max=25)
+    $ custom_game_config = GameConfig(target_img_path="images/custom_targets/", target_img_name='custom_target_', target_nb=6, time_limit=20, life_max=3, round_nb=5, bullet_max=25)
     $ hunt = HuntingGame(custom_game_config)
     $ hunt.run()
     scene black
