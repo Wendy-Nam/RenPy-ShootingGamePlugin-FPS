@@ -1,5 +1,7 @@
 # Shooting Game Plugin for Ren'Py (FPS)
 
+![Please enter a title_-003](https://github.com/Wendy-Nam/RenPy-ShootingGamePlugin-FPS/assets/142412339/0d7cd67a-b8f0-4a55-aa39-358d01fc2691)
+
 Welcome to the Shooting Game Plugin for Ren'Py!
 
 This plugin enables you to seamlessly integrate an immersive first-person shooting mini-game into your Ren'Py visual novel.
