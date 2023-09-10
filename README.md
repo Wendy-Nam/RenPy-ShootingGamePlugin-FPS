@@ -1,3 +1,5 @@
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/) [![License: CC0-1.0](https://licensebuttons.net/l/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
 # Shooting Game Plugin for Ren'Py (FPS)
 
 ![Please enter a title_-003](https://github.com/Wendy-Nam/RenPy-ShootingGamePlugin-FPS/assets/142412339/0d7cd67a-b8f0-4a55-aa39-358d01fc2691)
